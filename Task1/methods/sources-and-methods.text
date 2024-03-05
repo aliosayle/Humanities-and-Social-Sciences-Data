@@ -1,0 +1,4 @@
+created a words file with over 20k words from various web sources to ensure diversity in the data.
+then created a python script to append a 100 words from the words file to each of the data files.
+sources from various authors on:
+www.sciencedirect.com/journal/social-sciences-and-humanities-open
